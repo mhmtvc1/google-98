@@ -1,0 +1,81 @@
+.img {
+    text-align: center;
+    justify-content: center;
+}
+.div1{
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 80px;
+    background-color: rgb(238, 238, 238);
+
+    
+}
+.div1 input{
+    width: 25%;
+}
+.div1 p{
+    margin-bottom: 0%;
+}
+
+.anadiv{
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;   
+}
+
+.div2, .div3, .div4 {
+    flex: 1;
+}
+
+
+.div2{
+    background-color: rgb(126, 229, 218);
+    display: inline-block;
+    text-align: center;
+    padding: 30px;
+
+}
+
+.div2 .eleman p{
+    margin-bottom: 0%;
+    margin-top: 0%;
+    height: 0px;
+
+
+    
+}
+
+
+.div3{
+    background-color: rgb(112, 204, 194);
+    font-size: small;
+    
+}
+.div3 ul{
+    list-style-type: none;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: center;
+
+
+}
+.div4{
+    background-color: rgb(98, 179, 170);
+    text-align: center;
+    font-size: small;
+}
+.div4 p {
+    margin-bottom: 0%;
+}
+.div4 .button{
+    border-radius: 2px;
+    
+}
+.div4 a{
+    margin-left: 10px;
+}
+footer{
+    text-align: center;
+    font-size: small;
+}
